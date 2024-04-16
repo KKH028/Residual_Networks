@@ -1,6 +1,7 @@
 # Residual-Networks
 
-
+TensorFlow Keras로 구현.
+<br><br>
 **__pycache__**: 파이썬의 컴파일된 바이트 코드가 포함된 directory입니다.<br><br>
 **datasets**: 데이터셋이 위치하는 directory입니다.<br><br>
 **images**: Test 파일들이 위치하는 directory입니다.
